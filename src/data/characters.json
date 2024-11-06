@@ -1,0 +1,18 @@
+[
+  {
+    "id": "character-1",
+    "name": "Character 1",
+    "workId": "anime-1",
+    "modelPath": "/models/placeholder.glb",
+    "selectableMeshes": ["Mesh1", "Mesh2"],
+    "info": "Character 1 description."
+  },
+  {
+    "id": "character-2",
+    "name": "Character 2",
+    "workId": "anime-1",
+    "modelPath": "/models/placeholder.glb",
+    "selectableMeshes": ["Mesh3"],
+    "info": "Character 2 description."
+  }
+]
